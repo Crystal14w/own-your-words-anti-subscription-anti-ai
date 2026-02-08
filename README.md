@@ -1,6 +1,6 @@
 # own-your-words-anti-subscription-anti-ai
 
-#OwnYourWords with No-Subscription
+##OwnYourWords with No-Subscription
 
 OwnYourWords with No-Subscription is an offline, subscription-free alternative to Microsoft Word built in Python.
 

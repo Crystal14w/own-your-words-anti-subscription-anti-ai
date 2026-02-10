@@ -48,7 +48,7 @@ If you plan to use OwnYourWords for college or academic work, be sure to coordin
 
 
 <ins>Step 3: Open HTML file and click Control + P to print</ins>
-![image alt](https://github.com/Crystal14w/own-your-words-anti-subscription-anti-ai/blob/c9c6faf77d57196d8f8bd35a6b62d0699f1ba347/images/Save_PDF_Step_1.PNG)
+![image alt](https://github.com/Crystal14w/own-your-words-anti-subscription-anti-ai/blob/06c4e6824e6f1e3754002690403f0e4aa0a065d4/images/Save_PDF_Step_2.PNG)
 
 <ins>Step 4: Feel free to reformat your margins and print in PDF</ins>
 ![image alt](https://github.com/Crystal14w/own-your-words-anti-subscription-anti-ai/blob/c9c6faf77d57196d8f8bd35a6b62d0699f1ba347/images/Save_PDF_Step_1.PNG)

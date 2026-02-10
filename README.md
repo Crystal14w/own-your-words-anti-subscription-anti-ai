@@ -27,6 +27,4 @@ Your files live on your desktop and are not designed for simultaneous multi-user
 
 If you plan to use OwnYourWords for college or academic work, be sure to coordinate with your school’s policies regarding approved software and submission requirements. The final output would be in PDF only.
 
-## Status
-Personal project. Actively evolving.
 

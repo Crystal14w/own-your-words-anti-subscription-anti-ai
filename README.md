@@ -1,7 +1,6 @@
-# Retro-MS-Word-Anti-Subscription-Anti-AI
+# Retro-MS-Word-Anti-Subscription
 
-
-OwnYourWords with No-Subscription is an offline, subscription-free alternative to Microsoft Word built in Python.
+Own your words with No-Subscription is an offline, subscription-free alternative to Microsoft Word built in Python.
 
 It’s designed for people who want a writing experience without cloud accounts, subscriptions, or distractions. Everything stays local. Your files are yours.
 

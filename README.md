@@ -34,7 +34,7 @@ If you plan to use OwnYourWords for college or academic work, be sure to coordin
 
 
 ## Example of Functions
-![image alt](https://github.com/Crystal14w/own-your-words-anti-subscription-anti-ai/blob/132110c9ffb6830f78ec090240ef9ee1eb873233/images/User_Interface.PNG)
+![image alt](https://github.com/Crystal14w/own-your-words-anti-subscription-anti-ai/blob/e6e95697a445af1e42fa23241d76ec8046aee9fb/images/Functions.PNG)
 
 
 

@@ -29,4 +29,4 @@ If you plan to use OwnYourWords for college or academic work, be sure to coordin
 
 
 ## User Interface
-![image alt](https://github.com/Crystal14w/own-your-words-anti-subscription-anti-ai/blob/d6678f19cb23b2ad31239615e87c3a85bf33c4ec/images/Open%20OwnYourWords%20App.PNG)
+![image alt]

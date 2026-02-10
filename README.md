@@ -1,6 +1,6 @@
 # Retro-MS-Word-Anti-Subscription
 
-This retro python Application is built as a subscription-free alternative to Microsoft Word.
+This retro python Application (OwnYourWords) is built as a subscription-free alternative to Microsoft Word.
 
 It’s designed for people who want a writing experience without cloud accounts, subscriptions, or distractions. Everything stays local. Your files are yours.
 
@@ -16,7 +16,7 @@ Just writing.
 - Page breaks and PDF export
 - Local files only — your writing stays yours
 
-## Why YourOwnWords?
+## Why use this platform?
 Modern writing tools increasingly require subscriptions, logins, and constant connectivity.
 YourOwnWords is an experiment in calm, local-first software.
 

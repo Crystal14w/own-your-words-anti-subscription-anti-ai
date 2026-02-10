@@ -41,7 +41,7 @@ If you plan to use OwnYourWords for college or academic work, be sure to coordin
 ## Steps to Save PDF File
 
 <ins>Step 1: After clicking the save as PDF button, the following pop-up will show as a reminder</ins>
-![image alt](https://github.com/Crystal14w/own-your-words-anti-subscription-anti-ai/blob/132110c9ffb6830f78ec090240ef9ee1eb873233/images/User_Interface.PNG)
+![image alt](https://github.com/Crystal14w/own-your-words-anti-subscription-anti-ai/blob/9fa0626a8c30a64df099675463b8d3f3e2ad7ad9/images/Save_PDF_Pop_up.PNG)
 
 <ins>Step 2: Save as HTML first</ins>
 
